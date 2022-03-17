@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9754d61-b240-4bea-986f-66c43d26ec4b": {
+      "ProjectGuid": "b9754d61-b240-4bea-986f-66c43d26ec4b",
+      "DisplayName": "AppaiEstude",
+      "ColorIndex": 0
+    },
+    "103cca3a-fd08-421a-bbae-4cc26d23900a": {
+      "ProjectGuid": "103cca3a-fd08-421a-bbae-4cc26d23900a",
+      "DisplayName": "Appai.Domain",
+      "ColorIndex": 1
+    },
+    "f5351ae8-a3f8-4d8f-a0ea-1a973ab426c2": {
+      "ProjectGuid": "f5351ae8-a3f8-4d8f-a0ea-1a973ab426c2",
+      "DisplayName": "Appai.App",
+      "ColorIndex": 2
+    },
+    "6a36b015-5664-4571-a62c-3f0645c3ae8d": {
+      "ProjectGuid": "6a36b015-5664-4571-a62c-3f0645c3ae8d",
+      "DisplayName": "Appai.Repository",
+      "ColorIndex": 3
+    },
+    "9cbdd25c-f5f0-40d6-8c46-e9e0573a805d": {
+      "ProjectGuid": "9cbdd25c-f5f0-40d6-8c46-e9e0573a805d",
+      "DisplayName": "Appai.Service12",
+      "ColorIndex": 4
+    },
+    "32dfdf4d-3d3d-42d8-8891-c32818f4d48a": {
+      "ProjectGuid": "32dfdf4d-3d3d-42d8-8891-c32818f4d48a",
+      "DisplayName": "Appai.Service",
+      "ColorIndex": 5
+    },
+    "ece62ddf-7520-4b3c-a565-bae6511e248c": {
+      "ProjectGuid": "ece62ddf-7520-4b3c-a565-bae6511e248c",
+      "DisplayName": "Appai.Domain",
+      "ColorIndex": 6
+    },
+    "c38c7bf6-988f-498a-9566-bae6dac7e90e": {
+      "ProjectGuid": "c38c7bf6-988f-498a-9566-bae6dac7e90e",
+      "DisplayName": "Appai.Repository",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

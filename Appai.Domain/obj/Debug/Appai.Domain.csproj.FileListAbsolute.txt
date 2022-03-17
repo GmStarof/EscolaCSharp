@@ -1,0 +1,8 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\bin\Debug\Appai.Domain.exe.config
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\bin\Debug\Appai.Domain.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\bin\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\obj\Debug\Appai.Domain.csproj.SuggestedBindingRedirects.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\obj\Debug\Appai.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\obj\Debug\Appai.Domain.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\obj\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domain\obj\Debug\Appai.Domain.csproj.AssemblyReference.cache

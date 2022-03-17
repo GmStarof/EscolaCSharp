@@ -1,0 +1,6 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\obj\Debug\Appai.Domain.csproj.AssemblyReference.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\obj\Debug\Appai.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\bin\Debug\Appai.Domain.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\bin\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\obj\Debug\Appai.Domain.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Domains\obj\Debug\Appai.Domain.pdb

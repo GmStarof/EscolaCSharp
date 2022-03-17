@@ -1,0 +1,8 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\bin\Debug\Appai.Repository.exe.config
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\bin\Debug\Appai.Repository.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\bin\Debug\Appai.Repository.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\obj\Debug\Appai.Repository.csproj.AssemblyReference.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\obj\Debug\Appai.Repository.csproj.SuggestedBindingRedirects.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\obj\Debug\Appai.Repository.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\obj\Debug\Appai.Repository.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.Repository\obj\Debug\Appai.Repository.pdb

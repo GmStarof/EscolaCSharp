@@ -1,0 +1,13 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Service.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Service.csproj.AssemblyReference.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Services.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Services.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Services.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Services.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Domain.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Repository.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Repository.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Service.csproj.CopyComplete
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\FicharioAluno.mdf
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\FicharioAluno_log.ldf

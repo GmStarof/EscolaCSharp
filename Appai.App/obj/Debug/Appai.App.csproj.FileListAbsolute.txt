@@ -1,0 +1,17 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.csproj.AssemblyReference.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.App.exe.config
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.App.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.App.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\obj\Debug\Appai.App.csproj.CopyComplete
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Domain.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Repository.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Services.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Repository.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\Appai.Services.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\FicharioAluno.mdf
+C:\Users\1194\source\repos\AppaiEstude\Appai.App\bin\Debug\FicharioAluno_log.ldf

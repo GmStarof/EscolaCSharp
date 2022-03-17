@@ -1,0 +1,10 @@
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Servicess.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Servicess.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Services.csproj.CoreCompileInputs.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Servicess.dll
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Servicess.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Domain.exe
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Domain.pdb
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\bin\Debug\Appai.Domain.exe.config
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Services.csproj.AssemblyReference.cache
+C:\Users\1194\source\repos\AppaiEstude\Appai.Servicess\obj\Debug\Appai.Services.csproj.CopyComplete
