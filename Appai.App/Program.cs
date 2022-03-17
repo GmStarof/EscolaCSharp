@@ -20,11 +20,6 @@ namespace Appai.App
             ProfessorService professorService = new ProfessorService();
             MateriaService materiaService = new MateriaService();
 
-            IWebHost host = new WebHostBuilder()
-                .UseKestrel()
-                .Build();
-
-
             menu.MenuPrincipal();
 
 
